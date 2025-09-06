@@ -2,7 +2,7 @@
 <h3 align="center">I own a Laptop 💻</h3>
 
 <p align="center">
-  <a href="https://twitter.com/shy7712" target="_blank">
+  <a href="https://twitter.com/lanccer7" target="_blank">
     <img src="https://img.shields.io/twitter/follow/lanccer7?logo=twitter&style=for-the-badge" alt="lanccer7" />
   </a>
 </p>
