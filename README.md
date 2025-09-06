@@ -3,14 +3,14 @@
 
 <p align="center">
   <a href="https://twitter.com/shy7712" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/shy7712?logo=twitter&style=for-the-badge" alt="shy7712" />
+    <img src="https://img.shields.io/twitter/follow/lanccer7?logo=twitter&style=for-the-badge" alt="lanccer7" />
   </a>
 </p>
 
 ---
 
 - 🔥 I write Code
--  🌐 My Website: [ShyamGuna](https://shyamguna.vercel.app) 
+-  🌐 My Website: [ShyamGuna](https://sinisterspd.vercel.app/) 
 - 📫 Reach me at: **shyamprasad8247@gmail.com**
 
 ---
@@ -20,7 +20,7 @@
   <a href="https://codepen.io/@shyam-prasad-guna" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/shy7712" target="_blank">
+  <a href="https://x.com/lanccer7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/shyamprasadguna" target="_blank">
