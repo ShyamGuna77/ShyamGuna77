@@ -10,7 +10,7 @@
 ---
 
 - 🔥 I write Code
--  🌐 My Website: [ShyamGuna](https://sinisterspd.vercel.app/) 
+-  🌐 My Website: [ShyamGuna](https://sinisterspd.online) 
 - 📫 Reach me at: **shyamprasad8247@gmail.com**
 
 ---
